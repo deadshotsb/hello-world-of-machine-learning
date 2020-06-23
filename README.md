@@ -18,3 +18,5 @@ The packages used in this repository are:-
 3. matplotlib
 4. pandas
 5. sklearn
+
+The main motive behind this project was to introduce myself in the world of Machine Learning. The project mainly deals with classifying the plant species based on the structure of their iris.

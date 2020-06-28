@@ -58,7 +58,7 @@ The image(.png) file is used to supplement the Jupyter notebook. (Source : Googl
 
 You can check the latest sources with the command:
 
-`git clone `
+`git clone https://github.com/deadshotsb/hello-world-of-machine-learning.git`
 
 ## How to interact ##
 

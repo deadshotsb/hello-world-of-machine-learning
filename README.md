@@ -50,7 +50,7 @@ There are two working files and an image file in this repository.
 
 The Comma Separated Value (Border-Crossing-Entry-Data.csv) file contains the entire dataset.
 
-The Jupyter notebook (US-Border-Crossing-Data-Analysis.ipynb) file contains the project.
+The Jupyter notebook (IRIS_Classification.ipynb) file contains the project.
 
 The image(.png) file is used to supplement the Jupyter notebook. (Source : Google images)
 

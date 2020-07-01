@@ -62,7 +62,7 @@ You can check the latest sources with the command:
 
 ## How to interact ##
 
-Download/clone the repository and provide the path to the (.csv) file provided in the repository.
+Download/clone the repository and provide the path to the(.csv) file provided in the repository.
 
 In case of harware/Package failure you can try out <a href= "colab.research.google.com"> Google Colab </a>.
 

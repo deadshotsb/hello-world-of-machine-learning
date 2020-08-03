@@ -9,7 +9,7 @@ I am a Data Science Enthusiast. I love Tableau and Power BI for visualization.
 
 # IRIS Classification 
 
-The IRIS Classification dataset is largely considered as a "Hello World" of Machine Leaening. This is based on a kaggle dataset. the main aim of this project is to classify an iris into three categories based on some charecteristics.
+The IRIS Classification dataset is largely considered as a "Hello World" of Machine Leaening. This is based on a kaggle dataset. the main aim of this project is to classify an iris into three categories based on some charecteristics provided in the dataset.
 
 ## Installations ## 
 
